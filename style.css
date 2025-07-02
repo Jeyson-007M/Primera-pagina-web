@@ -1,0 +1,26 @@
+body {
+    background-color: #0d1117;
+    color: #c9d1d9;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #161b22;
+    padding: 1em;
+    text-align: center;
+}
+nav a {
+    margin: 0 15px;
+    color: #58a6ff;
+    text-decoration: none;
+}
+main {
+    padding: 2em;
+}
+footer {
+    background-color: #161b22;
+    text-align: center;
+    padding: 1em;
+    margin-top: 2em;
+}
