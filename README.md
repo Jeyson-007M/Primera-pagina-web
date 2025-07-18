@@ -1,11 +1,28 @@
-# Hacking Ético - Página Web Educativa
+# 🌐 SilverNight Wolfers
 
-Este es un proyecto básico para una página web de hacking ético. Está diseñada para ser publicada en GitHub Pages o cualquier otro servicio de hosting estático.
+Bienvenido al repositorio oficial de **SilverNight Wolfers**, una micro-agencia digital enfocada en:
 
-## Estructura
-- `index.html`: Página principal
-- `style.css`: Estilos de la página
-- `README.md`: Descripción del proyecto
+- Diseño de plantillas profesionales
+- Redacción de contenido con apoyo de IA
+- Servicios de asistencia virtual remota
 
-## Licencia
-Este proyecto es solo para fines educativos.
+🚀 Este repositorio contiene el sitio web principal de la agencia.  
+Puedes visitarlo en:  
+**[https://TU-USUARIO.github.io/silvernight-wolfers/](https://TU-USUARIO.github.io/silvernight-wolfers/)**  
+(Una vez activado GitHub Pages)
+
+---
+
+## 📁 Estructura del proyecto
+
+- `index.html` → Página principal del sitio web.
+- `README.md` → Este archivo de descripción.
+- Otras mejoras visuales o recursos se irán añadiendo aquí.
+
+---
+
+## 📬 Contacto
+
+📧 **silvernightwolfers@gmail.com**
+
+---
